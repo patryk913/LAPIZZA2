@@ -1,0 +1,2 @@
+android.app.Application
+LAPIZZA2.Droid
