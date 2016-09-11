@@ -40,6 +40,7 @@
     <Compile Include="SQLite-AppSample\SQLiteSamplePage.cs" />
     <Compile Include="SQLite-AppSample\TodoItem.cs" />
     <Compile Include="SQLite\ISQLite.cs" />
+    <Compile Include="Summery.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="SQLite-net, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
