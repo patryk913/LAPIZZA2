@@ -12,7 +12,7 @@ namespace LAPIZZA2
         public App()
         {
             // The root page of your application
-            MainPage = new SQLiteSamplePage().GetSampleContentPage();
+            MainPage = new MainPage().GetSampleContentPage();
         }
 
         protected override void OnStart()
